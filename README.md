@@ -55,5 +55,5 @@ Modèle en étoile et rapport multi-pages pour le pilotage de la performance com
 
 ## Me contacter
 
-- LinkedIn : [linkedin.com/in/TON-LIEN](https://www.linkedin.com/in/jean-philippe-nioule/)
+- LinkedIn : [linkedin.com/in/(https://www.linkedin.com/in/jean-philippe-nioule/)
 - Email : philippenioule@gmail.com
