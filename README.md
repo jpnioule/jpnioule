@@ -1,6 +1,6 @@
 <div align="center">
 
-# Salut, je suis Jean-Philippe 👋
+# Salut, je suis JeanPhilippe 👋
 
 Étudiant en Msc Data Marketing Manager — INSEEC Msc Paris
 **Actuellement en recherche de stage Data Analyst**
