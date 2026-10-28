@@ -8,7 +8,7 @@ Jean Philippe Nioule | Data Analyst & Business Intelligence
 
 Avec 7 ans d'expérience en relation client B2B et reporting commercial, je combine compréhension métier, analyse de données et visualisation pour transformer les données en indicateurs utiles à la décision.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-philippe-nioule/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1B4F8F?style=flat&logo=githubpages&logoColor=white)](https://jpnioule.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-philippe-nioule/)
 
 </div>
 
@@ -28,35 +28,43 @@ Business Intelligence : Power BI, DAX, Tableau, Excel
 
 Analyse client : segmentation RFM, KPI commerciaux, performance client
 
-IA générative : API LLM, RAG, ChromaDB, n8n`
+IA générative : API LLM, RAG, ChromaDB, n8n
 
 ## Projets phares
 
-### 🌿 [Luméa — AI Marketing Agency](https://github.com/JpNioule-maker/lumea-ai-marketing-agency)
-Écosystème marketing complet piloté par l'IA pour une marque DTC fictive : chatbot service client basé sur du RAG (Claude, ChromaDB, embeddings multilingues), agent autonome de génération de contenu Instagram, workflow n8n de nurturing email avec logique de sortie à la conversion, et landing page déployée sur Netlify.
+### 📊 [Ventes retail : analyses SQL et dashboard Power BI](https://github.com/jpnioule/ventes-retail-sql)
+Base PostgreSQL d'une enseigne fictive (6 magasins et e-commerce, ventes simulées de 2024 à 2026). Analyses SQL avec CTE et fonctions de fenêtre : croissance décomposée en volume et panier moyen, marge par catégorie et par niveau de remise, canaux et magasins. Restitution dans un dashboard Power BI avec KPI vs N-1 à périodes comparables (DAX).
 
-`Claude API` `ChromaDB` `n8n` `Airtable` `Netlify`
+`PostgreSQL` `SQL` `Power BI` `DAX`
 
-### 📊 [Analyse des ventes e-commerce — Segmentation RFM](https://github.com/JpNioule-maker/--Online-Retail---Analyse-des-ventes-e-commerce)
-Segmentation de la base client d'un site e-commerce en profils actionnables via clustering K-Means et score de silhouette, à partir de données de transactions brutes.
+### 🌿 [Luméa : écosystème marketing IA](https://github.com/jpnioule/lumea-ai-marketing-agency)
+Écosystème marketing piloté par l'IA pour une marque fictive de skincare : chatbot de conseil produit basé sur du RAG (Claude, ChromaDB, embeddings multilingues locaux), agent de génération de contenu Instagram, workflow n8n de nurturing e-mail et landing page. Recherche évaluée sur 10 questions clients : bon passage dans le top 3 pour 10/10, contre 5/10 avec un modèle anglais.
+
+`Claude API` `ChromaDB` `LangChain` `n8n` `Airtable`
+
+### 🛒 [Online Retail : analyse des ventes et segmentation clients](https://github.com/jpnioule/--Online-Retail---Analyse-des-ventes-e-commerce)
+Projet d'équipe (M2) sur 392 000 transactions e-commerce : ANOVA, régression multiple et segmentation RFM par K-Means. Ma partie : la segmentation, qui aboutit à 4 segments clients actionnables.
 
 `Python` `pandas` `scikit-learn`
 
-### 📈 [Rapport Power BI — Ventes 2022](https://github.com/JpNioule-maker/rapport-Powerbi-ventes-2022)
-Modèle en étoile et rapport multi-pages pour le pilotage de la performance commerciale d'une entreprise fictive, avec mesures DAX avancées et mise en forme conditionnelle.
+### 📈 [Dashboard Tableau : performance commerciale](https://github.com/jpnioule/dashboard-performance-commerciale-auto-Sales)
+Suivi des ventes 2018-2020 : 4 KPI, carte et Top 10 pays, évolution du chiffre d'affaires, lignes de produits et saisonnalité.
 
-`Power BI` `DAX` `Modélisation de données`
+`Tableau Desktop`
+
+👉 Tous mes projets, dont la segmentation RFM de 100 000 clients Olist, sont présentés sur mon portfolio : **[jpnioule.github.io](https://jpnioule.github.io)**
 
 ## Activité GitHub
 
 <div align="center">
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=JpNioule-maker&show_icons=true&theme=default&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JpNioule-maker&hide_border=true)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=jpnioule&show_icons=true&theme=default&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpnioule&hide_border=true)
 
 </div>
 
 ## Me contacter
 
-- LinkedIn : [linkedin.com/in/(https://www.linkedin.com/in/jean-philippe-nioule/)
+- Portfolio : [jpnioule.github.io](https://jpnioule.github.io)
+- LinkedIn : [linkedin.com/in/jean-philippe-nioule](https://www.linkedin.com/in/jean-philippe-nioule/)
 - Email : philippenioule@gmail.com
