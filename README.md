@@ -2,8 +2,11 @@
 
 # Salut, je suis Jean Philippe 👋
 
-Étudiant en Msc Data Marketing Manager — INSEEC Msc Paris
-**Actuellement en recherche de stage Data Analyst**
+Jean Philippe Nioule | Data Analyst & Business Intelligence
+
+Étudiant en MSc 2 Data Marketing à l'INSEEC Paris, je recherche un stage de fin d'études de 6 mois en Data Analytics ou Business Intelligence.
+
+Avec 7 ans d'expérience en relation client B2B et reporting commercial, je combine compréhension métier, analyse de données et visualisation pour transformer les données en indicateurs utiles à la décision.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-philippe-nioule/)
 
@@ -19,13 +22,13 @@ Je m'intéresse particulièrement à l'intégration de l'**IA générative** dan
 
 ## Stack technique
 
-**Langages & Data** `Python` `SQL` `Excel`
+Data analysis : SQL, PostgreSQL, Python, pandas
 
-**BI & Visualisation** `Power BI` `Tableau` `Excel avancé`
+Business Intelligence : Power BI, DAX, Tableau, Excel
 
-**IA / LLM** `Anthropic API (Claude)` `RAG (ChromaDB)` `n8n`
+Analyse client : segmentation RFM, KPI commerciaux, performance client
 
-**Autres** `Git/GitHub` `HTML/CSS/JS`
+IA générative : API LLM, RAG, ChromaDB, n8n`
 
 ## Projets phares
 
