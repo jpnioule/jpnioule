@@ -42,7 +42,7 @@ Base PostgreSQL d'une enseigne fictive (6 magasins et e-commerce, ventes simulé
 
 `Claude API` `ChromaDB` `LangChain` `n8n` `Airtable`
 
-### 🛒 [Online Retail : analyse des ventes et segmentation clients](https://github.com/jpnioule/--Online-Retail---Analyse-des-ventes-e-commerce)
+### 🛒 [Online Retail : analyse des ventes et segmentation clients](https://github.com/jpnioule/online-retail-analyse-ventes)
 Projet d'équipe (M2) sur 392 000 transactions e-commerce : ANOVA, régression multiple et segmentation RFM par K-Means. Ma partie : la segmentation, qui aboutit à 4 segments clients actionnables.
 
 `Python` `pandas` `scikit-learn`
